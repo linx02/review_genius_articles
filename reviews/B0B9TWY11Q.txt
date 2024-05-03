@@ -1,43 +1,30 @@
-# WYZE Cam Pan v3 Review: "Panoramic Peace of Mind"
-
-## Introduction:
-The **WYZE Cam Pan v3** is a versatile and affordable security camera that offers comprehensive surveillance both indoors and outdoors. Its pan-and-tilt capability, combined with an IP65 weather-resistant rating, makes it a robust choice for monitoring your home, pets, or loved ones.
-
-## Overview
-This smart home security camera boasts **1080p HD video quality**, **360° panning**, and **180° tilting** to ensure every corner is covered. With **color night vision** and **24/7 continuous recording**, it promises clear footage around the clock.
-
-## Pros and Cons:
-
-__Pros__:
-- **Affordable price** at just $39.0.
-- **Indoor/Outdoor flexibility** with an IP65 rating.
-- **Full HD 1080p** video with **color night vision**.
-- **Motion tracking** keeps tabs on movement seamlessly.
-- **Two-way audio** and compatibility with **Alexa & Google Assistant**.
-
-__Cons__:
-- Requires **Wyze Outdoor Power Adapter v2** for outdoor use (sold separately).
-- **5 GHz Wi-Fi not supported**; only 2.4 GHz.
-- Some users reported **connection issues** with the right-angle micro USB connector.
-
-### Design and Build Quality:
-The WYZE Cam Pan v3's design is sleek and modern, fitting unobtrusively in any setting. Its build is solid, designed to withstand diverse weather conditions, making it a reliable choice for both indoor and outdoor use.
-
-### Performance and Functionality:
-Users report that the camera performs well, with **fast and smooth operation**. The **rotating motion-tracking** feature is a highlight, accurately following movement and providing comprehensive coverage.
-
-### User Experience:
-Setup is straightforward, with the **Wyze app** guiding users through the process. The camera's operation is quiet and unobtrusive, and the app offers a wealth of customizable options.
-
-### Value for Money:
-At its price point, the WYZE Cam Pan v3 offers an impressive array of features that are typically found in more expensive models, making it an excellent value for money.
-
-### Verdict:
-The WYZE Cam Pan v3 stands out as a **cost-effective, feature-rich** security camera. It's a solid choice for anyone looking to enhance their home security without breaking the bank.
-
-Affiliate Link:
-https://amzn.to/3ws741x
-
-
-## Conclusion:
-Thank you for reading this review. For more reviews and smart home tips, continue exploring our content.
+<h1>WYZE Cam Pan v3 Review: "Panoramic Peace of Mind"</h1>
+<h2>Introduction:</h2>
+<p>The <strong>WYZE Cam Pan v3</strong> is a versatile and affordable security camera that offers comprehensive surveillance both indoors and outdoors. Its pan-and-tilt capability, combined with an IP65 weather-resistant rating, makes it a robust choice for monitoring your home, pets, or loved ones.</p>
+<h2>Overview</h2>
+<p>This smart home security camera boasts <strong>1080p HD video quality</strong>, <strong>360° panning</strong>, and <strong>180° tilting</strong> to ensure every corner is covered. With <strong>color night vision</strong> and <strong>24/7 continuous recording</strong>, it promises clear footage around the clock.</p>
+<h2>Pros and Cons:</h2>
+<p><strong>Pros</strong>:
+- <strong>Affordable price</strong> at just $39.0.
+- <strong>Indoor/Outdoor flexibility</strong> with an IP65 rating.
+- <strong>Full HD 1080p</strong> video with <strong>color night vision</strong>.
+- <strong>Motion tracking</strong> keeps tabs on movement seamlessly.
+- <strong>Two-way audio</strong> and compatibility with <strong>Alexa &amp; Google Assistant</strong>.</p>
+<p><strong>Cons</strong>:
+- Requires <strong>Wyze Outdoor Power Adapter v2</strong> for outdoor use (sold separately).
+- <strong>5 GHz Wi-Fi not supported</strong>; only 2.4 GHz.
+- Some users reported <strong>connection issues</strong> with the right-angle micro USB connector.</p>
+<h3>Design and Build Quality:</h3>
+<p>The WYZE Cam Pan v3's design is sleek and modern, fitting unobtrusively in any setting. Its build is solid, designed to withstand diverse weather conditions, making it a reliable choice for both indoor and outdoor use.</p>
+<h3>Performance and Functionality:</h3>
+<p>Users report that the camera performs well, with <strong>fast and smooth operation</strong>. The <strong>rotating motion-tracking</strong> feature is a highlight, accurately following movement and providing comprehensive coverage.</p>
+<h3>User Experience:</h3>
+<p>Setup is straightforward, with the <strong>Wyze app</strong> guiding users through the process. The camera's operation is quiet and unobtrusive, and the app offers a wealth of customizable options.</p>
+<h3>Value for Money:</h3>
+<p>At its price point, the WYZE Cam Pan v3 offers an impressive array of features that are typically found in more expensive models, making it an excellent value for money.</p>
+<h3>Verdict:</h3>
+<p>The WYZE Cam Pan v3 stands out as a <strong>cost-effective, feature-rich</strong> security camera. It's a solid choice for anyone looking to enhance their home security without breaking the bank.</p>
+<p>Affiliate Link:
+https://amzn.to/3ws741x</p>
+<h2>Conclusion:</h2>
+<p>Thank you for reading this review. For more reviews and smart home tips, continue exploring our content.</p>
