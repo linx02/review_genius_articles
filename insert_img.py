@@ -20,7 +20,7 @@ for i, f in enumerate(files):
     with open(f'reviews/{f}', 'r') as file:
         content = file.read()
     
-    content = img_tag + r'\n' + content
+    content = img_tag + content
 
     with open(f'reviews/{f}', 'w') as file:
         file.write(content)
