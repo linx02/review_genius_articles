@@ -24,7 +24,7 @@
 <h3>Verdict:</h3>
 <p>The Furbo 360° Dog Camera is a <strong>high-quality, reliable product</strong> that offers both fun and security for your pets. It's a worthwhile investment for any pet owner looking to stay connected with their furry family members.</p>
 <p>Affiliate Link:
-https://amzn.to/49Z1emc
- - Click here to learn more or purchase the Furbo 360° Dog Camera.</p>
+<a href="https://amzn.to/49Z1emc" target="_blank">Click here (Amazon affiliate link)</a>
+ - to learn more or purchase the Furbo 360° Dog Camera.</p>
 <h2>Conclusion:</h2>
 <p>Thank you for reading this review. For more reviews and pet care tips, continue exploring our content. Your pet deserves the best, and with Furbo, you're one step closer to providing it.</p>

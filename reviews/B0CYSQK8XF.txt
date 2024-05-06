@@ -24,5 +24,5 @@
 <h3>Verdict:</h3>
 <p>The <strong>ACEMAGIC 17.3inch Laptop</strong> is a stellar choice for professionals and casual users alike. Its robust features and affordable price tag make it a <strong>highly recommended</strong> purchase.</p>
 <p>Affiliate Link:
-https://amzn.to/49YoYqw</p>
+<a href="https://amzn.to/49YoYqw" target="_blank">Click here (Amazon affiliate link)</a></p>
 <p>Thank you for reading this review. For more tech insights and reviews, continue exploring our content.</p>

@@ -23,7 +23,7 @@
 <h3>Verdict:</h3>
 <p>The <strong>Digital Photo Frame 10.1 Inch</strong> is a gem in the realm of digital displays. Its ability to bring families closer and make memories more accessible earns it a hearty recommendation.</p>
 <p>Affiliate Link:
-https://amzn.to/3QqhoOE
- - Click here to capture your cherished moments today!</p>
+<a href="https://amzn.to/3QqhoOE" target="_blank">Click here (Amazon affiliate link)</a>
+ - to capture your cherished moments today!</p>
 <h2>Conclusion:</h2>
 <p>Thank you for reading this review. It's more than just a frame; it's a window to the heart. Explore more reviews and content to find the perfect way to preserve and share your life's story.</p>

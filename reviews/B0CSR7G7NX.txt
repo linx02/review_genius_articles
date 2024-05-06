@@ -24,7 +24,7 @@
 <h3>Verdict:</h3>
 <p>The Oura Ring Gen3 Horizon is a stylish and innovative health tracker that offers a wealth of biometric data. It's ideal for those who prioritize detailed sleep and health insights over extensive fitness tracking.</p>
 <p>Affiliate Link:
-https://amzn.to/3wnGsPl
+<a href="https://amzn.to/3wnGsPl" target="_blank">Click here (Amazon affiliate link)</a>
  - Click here to explore the Oura Ring Gen3 Horizon and take the first step towards a healthier lifestyle.</p>
 <h2>Conclusion:</h2>
 <p>Thank you for reading this review. For those seeking a discreet and sophisticated health tracker, this smart ring could be the perfect addition to your daily routine. Explore more reviews and health-related content on our site for further guidance.</p>

@@ -24,5 +24,5 @@
 <h3>Verdict:</h3>
 <p>The <strong>HP 15.6" Touchscreen Newest Flagship HD Laptop</strong> is a solid choice for those seeking a balance between performance and affordability. While it has some drawbacks, its strengths make it a worthy contender in its price range.</p>
 <p>Affiliate Link:
-https://amzn.to/4bnq940</p>
+<a href="https://amzn.to/4bnq940" target="_blank">Click here (Amazon affiliate link)</a></p>
 <p>Thank you for reading this review. For more reviews and tech insights, continue exploring our content. Your next level of productivity awaits!</p>
